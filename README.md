@@ -4,6 +4,7 @@ This project enables touchless control of presentations using hand gestures dete
 🚀 Control your presentations using hand gestures! This project uses OpenCV, MediaPipe, and PyAutoGUI to recognize gestures and interact with presentation software like PowerPoint and Google Slides.
 
 📌 Features
+
 ✅ Swipe Left → Move to the previous slide
 ✅ Swipe Right → Move to the next slide
 ✅ Pinch Gesture → Zoom in
