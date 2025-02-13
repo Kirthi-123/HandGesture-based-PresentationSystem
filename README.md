@@ -5,10 +5,15 @@ This project enables touchless control of presentations using hand gestures dete
 
 # 📌 Features
 ✅ Swipe Left → Move to the previous slide
+
 ✅ Swipe Right → Move to the next slide
+
 ✅ Pinch Gesture → Zoom in
+
 ✅ Open Hand Gesture → Zoom out
+
 ✅ Customizable Actions → Modify gestures for different functionalities
+
 
 ## 🛠 Technologies Used
 OpenCV → Captures video from the webcam
