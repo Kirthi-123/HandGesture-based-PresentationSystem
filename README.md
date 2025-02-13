@@ -17,8 +17,11 @@ This project enables touchless control of presentations using hand gestures dete
 
 ## 🛠 Technologies Used
 OpenCV → Captures video from the webcam
+
 MediaPipe → Hand tracking and gesture recognition
+
 PyAutoGUI → Simulates keyboard shortcuts to control slides
+
 NumPy → Computes distances for gesture detection
 
 # 📥 Installation & Setup
@@ -35,25 +38,36 @@ python gesture_control.py
 
 # 🎯 How to Use
 1️⃣ Ensure your webcam is connected and properly working.
+
 2️⃣ Start the script and position your hand within the camera frame.
+
 3️⃣ Perform gestures to navigate slides, zoom, or perform other actions.
+
 4️⃣ Press 'q' to exit the program.
 
 ## 🔧 Future Enhancements
 ✅ Custom gesture mapping
+
 ✅ Voice command integration
+
 ✅ Drawing/Annotation mode for presentations
+
 ✅ Multi-user gesture recognition
 
 ## 🤝 Contributing
 Want to improve this project? Contributions are welcome!
+
 Fork the repository
+
 Make your changes
+
 Submit a pull request 🚀
 
 📄 License
 This project is open-source and available under the MIT License.
 
 ## 📬 Connect with Me
+
 🔗 GitHub: Kirthi-123
+
 🔗 LinkedIn: https://www.linkedin.com/in/kirthi-patcha-b94248259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
